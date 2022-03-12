@@ -1,0 +1,7 @@
+large ogre
+300
+2
+Coin
+1
+sword
+200
