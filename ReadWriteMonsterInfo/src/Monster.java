@@ -130,6 +130,7 @@ public class Monster extends Entity{
                     }
                 }
                 System.out.println( "Monster loaded" );
+                // myFile.close(); I FORGOT ABOUT CLOSING STREAM, ADDED THIS COMMENT IN GITHUB 
 
             }
             else{
